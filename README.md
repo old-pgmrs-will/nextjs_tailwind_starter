@@ -9,6 +9,8 @@
   - 最小限の TypeScript 実装
 
   で構成されています。
+  
+<img src="https://user-images.githubusercontent.com/102408514/176703139-93137ecb-4883-480b-9822-ba5046df14ec.png" width="50%" />
 
 - 想定使用者層
   - webプログラミング初学者
